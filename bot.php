@@ -39,12 +39,12 @@ try {
 				if($chatId == $id){
 					if($text ==  /start ){
               $bot->sendphoto([  chat_id =>$chatId,
-                   photo =>"https://t.me/kfoc10/59",
+                   photo =>"https://t.me/akil828/59",
                     caption => 𓊈 𝑊𝐸𝐿𝐿𝐶𝑀𝐸 𓊉 𓁹 التفعيل بواسطة @kfoc10 ,
                    reply_markup =>json_encode([
                        inline_keyboard =>[
                           [[ text => ➕ اضافه حسابات وهميه ➕ , callback_data => login ],[ text => ➖صفحه التحكم ➖ , callback_data => backakil ]],
-                       [[ text =>"قناتي ✔ ",  url =>"https://t.me/kfoc10"],[ text =>"المطور ➿ ",  url =>"https://t.me/D_X_12"]],
+                       [[ text =>"قناتي ✔ ",  url =>"https://t.me/kfoc10"],[ text =>"المطور ➿ ",  url =>"https://https://t.me/kfoc10"]],
                     
                       ]
                   ])
@@ -134,7 +134,7 @@ try {
                           [[ text => ✦ طرق سحب اليوزرات ✦ , callback_data => grabber ]],
                           [[ text => بدء الصيد 💀 , callback_data => run ],[ text => ايقاف الصيد💀 , callback_data => stop ]],
                           [[ text => حاله الحسابات ⚒ , callback_data => status ],[ text => قسم خاص ✔ , callback_data => statusakil ]],
-                          [[ text =>  قناتي❗ , url => t.me/kfoc10 ],[ text => المطور❔ , url => t.me/D_X_12 ]],
+                          [[ text =>  قناتي❗ , url => t.me/kfoc10 ],[ text => المطور❔ , url => https://t.me/kfoc10 ]],
                       ]
                   ])
                   ]);
@@ -255,7 +255,7 @@ try {
                        text =>"التحكم بلبوت @kfoc10 ",
                    reply_markup =>json_encode([
                        inline_keyboard =>[
-                          [[ text => قناتي , url => t.me/kfoc10 ],[ text => تواصل , url => t.me/D_X_12 ]],
+                          [[ text => قناتي , url => t.me/kfoc10 ],[ text => تواصل , url => https://t.me/kfoc10 ]],
                            [[ text => اشتراك بلبوت , url => t.me/C_Y_L ]],
                            [[ text => ملف البوت , callback_data => akilf ],[ text => رجوع , callback_data => hback ]],
                            
@@ -339,7 +339,7 @@ try {
 $bot->sendMessage([
                        chat_id =>$chatId,
                       
-                       text =>"https://t.me/kfoc10/824",
+                       text =>"https://t.me/akil828/824",
             
             
                         ]);
@@ -529,7 +529,7 @@ $bot->sendMessage([
                           [[ text => ✦ طرق سحب اليوزرات ✦ , callback_data => grabber ]],
                           [[ text => بدء الصيد 💀 , callback_data => run ],[ text => ايقاف الصيد💀 , callback_data => stop ]],
                           [[ text => حاله الحسابات ⚒ , callback_data => status ],[ text => قسم خاص ✔ , callback_data => statusakil ]],
- [[ text =>  قناتي❗ , url => t.me/kfoc10 ],[ text => المطور❔ , url => t.me/D_X_12 ]],
+ [[ text =>  قناتي❗ , url => t.me/kfoc10 ],[ text => المطور❔ , url => https://t.me/kfoc10 ]],
                       ]
                   ])
                   ]);		
@@ -551,7 +551,7 @@ $bot->sendMessage([
                           [[ text => رابط سحب متاح الهوتميل , callback_data => akilx2 ]],
                           [[ text => نقل ملكيه البوت , callback_data => akilx3 ]],
                           [[ text => ايديك , callback_data => akilx4 ],[ text => رجوع , callback_data => back ]],
- [[ text =>  قناتي❗ , url => t.me/kfoc10 ],[ text => المطور❔ , url => t.me/D_X_12 ]],
+ [[ text =>  قناتي❗ , url => t.me/kfoc10 ],[ text => المطور❔ , url => https://t.me/kfoc10 ]],
                       ]
                   ])
                   ]);				
@@ -576,7 +576,7 @@ $bot->sendMessage([
 اختراق المتاح :-  بكل سهوله و بساطة تقوم بي. تأكد من نوع متاح هل هول Gmail او hotmail او yahoo او maill اَو غيرها وتقوم بل دخول لي مواقع  انشاء حسابات مثل Gmail  تدخل اظافه حساب وتختار جيميل وتنشئ حساب جديد و تظيف البريد الإلكتروني الخاص بل حساب المتاح و تقوم بي عمل Rest  من الانستغرام و يصل رابط تغير كلمه سر الحساب
 
 الي ميعرف شنو المتاح وشون يخترقه
-@kfoc10",
+@Akil828",
                    reply_markup =>json_encode([
                        inline_keyboard =>[
                           [[ text => رجوع , callback_data => statusakil ]],
@@ -648,7 +648,7 @@ $bot->sendMessage([
                           [[ text => ✦ طرق سحب اليوزرات ✦ , callback_data => grabber ]],
                           [[ text => بدء الصيد 💀 , callback_data => run ],[ text => ايقاف الصيد💀 , callback_data => stop ]],
                           [[ text => حاله الحسابات ⚒ , callback_data => status ],[ text => قسم خاص ✔ , callback_data => statusakil ]],
- [[ text =>  قناتي❗ , url => t.me/kfoc10 ],[ text => المطور❔ , url => t.me/D_X_12 ]],
+ [[ text =>  قناتي❗ , url => https://t.me/kfoc10 ],[ text => المطور❔ , url => https://t.me/kfoc10 ]],
                       ]
                   ])
                   ]);
@@ -727,7 +727,7 @@ $bot->sendMessage([
                           [[ text => ✦ طرق سحب اليوزرات ✦ , callback_data => grabber ]],
                           [[ text => بدء الصيد 💀 , callback_data => run ],[ text => ايقاف الصيد💀 , callback_data => stop ]],
                           [[ text => حاله الحسابات ⚒ , callback_data => status ],[ text => قسم خاص ✔ , callback_data => statusakil ]],
- [[ text =>  قناتي❗ , url => t.me/kfoc10 ],[ text => المطور❔ , url => t.me/D_X_12 ]],
+ [[ text =>  قناتي❗ , url => t.me/kfoc10 ],[ text => المطور❔ , url => https://t.me/kfoc10 ]],
                       ]
                   ])
                   ]);
@@ -749,7 +749,7 @@ $bot->sendMessage([
                           [[ text => ✦ طرق سحب اليوزرات ✦ , callback_data => grabber ]],
                           [[ text => بدء الصيد 💀 , callback_data => run ],[ text => ايقاف الصيد💀 , callback_data => stop ]],
                           [[ text => حاله الحسابات ⚒ , callback_data => status ],[ text => قسم خاص ✔ , callback_data => statusakil ]],
- [[ text =>  قناتي❗ , url => t.me/kfoc10 ],[ text => المطور❔ , url => t.me/D_X_12 ]],
+ [[ text =>  قناتي❗ , url => t.me/kfoc10 ],[ text => المطور❔ , url => https://t.me/kfoc10 ]],
                       ]
                     ])
                   ]);
